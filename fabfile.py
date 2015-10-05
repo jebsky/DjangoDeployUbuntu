@@ -4,8 +4,9 @@ import random
 import datetime
 
 
-
 '''
+Online at https://github.com/jebsky/DjangoDeployUbuntu
+
 To Deploy on a fresh ubuntu install run
 fab spinup:host=root@<server_ip>
 then
