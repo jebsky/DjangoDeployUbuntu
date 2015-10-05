@@ -11,3 +11,8 @@
 Uses yuicompressor for minification
 Shrink to configure yuicompressor 
 https://bitbucket.org/jeronimoalbi/shrink
+
+#### Config Files
+- The fabric script Spinup script modifies and moves the config files
+- Nginx config lives in /etc/nginx/sites-enabled
+- Gunicorn script lives in /etc/init
